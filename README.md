@@ -1,2 +1,2 @@
-# AICTE_Internship-EV_Vehicle_Demand_Prediction
+# AICTE Internship-EV Vehicle Demand Prediction
 Shell-Edunet Skills4Future Internship Project : EV Vehicle/Charging Demand Prediction
